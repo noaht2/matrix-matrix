@@ -10,4 +10,4 @@ make matrix-matrix.pdf
 ```
 
 ## Contributing
-If you think of somewhere the article could be improved, especially if there is a mistake a disimprovement from the original, please create a pull request, open an issue or contact me.
+If you think of somewhere the article could be improved, especially if there is a mistake or a disimprovement from the original, please create a pull request, open an issue or contact me.
